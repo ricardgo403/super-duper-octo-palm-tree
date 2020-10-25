@@ -12,5 +12,5 @@ func (v *Video) Mostrar() {
 	fmt.Println("Video")
 	fmt.Println("Titulo: ", v.Titulo)
 	fmt.Println("Formato: ", v.Formato)
-	fmt.Println("Canales: ", v.Frames)
+	fmt.Println("Frames: ", v.Frames)
 }
